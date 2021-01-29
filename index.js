@@ -17,7 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
-
+/*since nestedFunction is inside myFunction, it is within its /function/ scope.
 
 
 
